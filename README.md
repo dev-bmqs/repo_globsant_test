@@ -1,4 +1,4 @@
-# repo_globsant_test
+# repo_globant_test
 Desafio de Código Globsant - API + SQL
 
 [PT - BR]
