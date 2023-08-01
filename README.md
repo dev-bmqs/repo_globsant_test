@@ -20,7 +20,7 @@ Existe uma pasta com as Consultas que respondem a segunda parte do Desafio.
 
 For File Upload:
 
-Use the URL localhost:5000/upload-csv for file upload. In this case, use the POST method with the Key as "files" and the Value as the files in question. The code is smart enough to handle scenarios where the same file is uploaded more than once.
+Use the URL localhost:5000/upload-csv for file upload. In this case, use the POST method with the Key as "arquivos" and the Value as the files in question. The code is smart enough to handle scenarios where the same file is uploaded more than once.
 
 For SQL Query:
 
