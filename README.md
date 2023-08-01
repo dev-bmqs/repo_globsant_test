@@ -7,6 +7,7 @@ Para Envio dos Arquivos:
 localhost:5000/upload-csv
 
 Neste caso, para envio dos arquivos use o método POST com o Key sendo "arquivos" e Value sendo os arquivos em questão. O código é inteligente o suficiente para tratar caso o mesmo arquivo seja colocado mais de uma vez.
+Esse resumo considera que você está usando POSTMAN.
 
 Para consulta SQL:
 
@@ -20,7 +21,7 @@ Existe uma pasta com as Consultas que respondem a segunda parte do Desafio.
 
 For File Upload:
 
-Use the URL localhost:5000/upload-csv for file upload. In this case, use the POST method with the Key as "arquivos" and the Value as the files in question. The code is smart enough to handle scenarios where the same file is uploaded more than once.
+Use the URL localhost:5000/upload-csv for file upload. In this case, use the POST method with the Key as "arquivos" and the Value as the files in question. The code is smart enough to handle scenarios where the same file is uploaded more than once. *Assuming that youre using POSTMAN.
 
 For SQL Query:
 
