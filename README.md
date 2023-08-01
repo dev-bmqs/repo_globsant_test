@@ -1,5 +1,5 @@
 # repo_globant_test
-Desafio de Código Globsant - API + SQL
+Desafio de Código Globant - API + SQL
 
 [PT - BR]
 Para Envio dos Arquivos:
