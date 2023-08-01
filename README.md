@@ -14,6 +14,8 @@ localhost:5000/query
 
 Aqui basta enviar uma query no modelo do arquivo que consta nesse repositório via JSON.
 
+Existe uma pasta com as Consultas que respondem a segunda parte do Desafio.
+
 [ENG]
 
 For File Upload:
@@ -24,3 +26,4 @@ For SQL Query:
 
 Use the URL localhost:5000/query for SQL queries. Here, simply send a query in the format found in the file within this repository via JSON.
 
+There's a Folder with all the Query's that answer the Last Part of the challenge.
